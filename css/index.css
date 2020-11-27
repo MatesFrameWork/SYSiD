@@ -770,8 +770,7 @@ footer i{
 .container-email-form {
   position: relative;
   padding-top: 23%;
-  bottom: 0%;
-  padding-bottom: 3%;
+  padding-bottom: 8%;
 }
 
 .container-email-form .email-input {
@@ -810,6 +809,11 @@ footer i{
   background-color: rgba(0,0,0,0.7);
   color: white;
   cursor: pointer;
+}
+
+footer{
+  padding: 2rem 0 20rem 0;
+  letter-spacing: 0.1rem;
 }
 
 }
